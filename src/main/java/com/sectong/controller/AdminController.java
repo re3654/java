@@ -17,6 +17,7 @@ import com.sectong.repository.NewsRepository;
 import com.sectong.repository.UserRepository;
 import com.sectong.service.UserService;
 
+//
 @Controller
 public class AdminController {
 
